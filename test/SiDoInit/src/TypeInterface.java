@@ -1,0 +1,7 @@
+
+
+
+public enum TypeInterface {
+ INTERRUPTEUR, MOBILE, TELEPHONE, TELECOMMANDE, TABLETTE, ORDINATEUR
+}
+
